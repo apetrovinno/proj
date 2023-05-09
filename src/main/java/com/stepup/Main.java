@@ -10,6 +10,7 @@ public class Main {
         */
         System.out.print("Hello and welcome!");
         System.out.print("Let's Rock!!!");
+        System.out.print("Hello and welcome!");
         System.out.print("Let's Rock!!!");
 
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
@@ -22,7 +23,7 @@ public class Main {
     }
 
     public static void newmain() {
-        System.out.print("OWsdasdOW!");
+        System.out.print("OWOWOOW!");
         System.out.print("YEEAAA!!!");
     }
 }
