@@ -10,6 +10,7 @@ public class Main {
         */
         System.out.print("Hello and welcome! \n" );
         System.out.print("Let's Rock!!! \n");
+        loud();
 
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
