@@ -8,10 +8,9 @@ public class Main {
          Press Alt+Enter with your caret at the highlighted text to see how
          IntelliJ IDEA suggests fixing it.
         */
-        System.out.print("Hello and welcome!");
-        System.out.print("Let's Rock!!!");
-        System.out.print("Hello and welcome!");
-        System.out.print("Let's Rock!!!");
+        System.out.print("Hello and welcome! \n" );
+        System.out.print("Let's Rock!!! \n");
+        loud();
 
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
@@ -21,9 +20,8 @@ public class Main {
             System.out.println("i = " + i);
         }
     }
-
-    public static void newmain() {
-        System.out.print("OWOWOOW!");
-        System.out.print("YEEAAA!!!");
+    public static void loud() {
+        System.out.println("OWOWOOW!");
+        System.out.println("YEEAAA!!!");
     }
 }
